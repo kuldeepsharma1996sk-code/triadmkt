@@ -32,9 +32,9 @@ export default function Home() {
             {/* Left Column: Bold Typography & CTA */}
             <div className="max-w-2xl">
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-grey-dark leading-[1.1] mb-6">
-                Power and Scale <br />
-                <span className="text-brand-orange">Brand Engagement.</span> <br />
-                Drive Results.
+                Architecting <br />
+                <span className="text-brand-orange">Physical Experiences.</span> <br />
+                Nationwide.
               </h1>
               <p className="text-base md:text-lg text-grey-dark font-medium leading-relaxed mb-10 max-w-lg">
                 Accelerate physical and digital brand presence with premium corporate gifting, experiential activations, and comprehensive fulfillment networks.
@@ -101,7 +101,7 @@ export default function Home() {
           </div>
 
           <h2 className="text-3xl md:text-5xl font-bold text-grey-dark mb-6">
-            All-in-One <span className="text-brand-orange">Brand Engagement</span> Solution
+            The Complete <span className="text-brand-orange">Experiential & Gifting</span> Ecosystem
           </h2>
           <p className="text-base md:text-lg text-grey-dark max-w-4xl mx-auto font-medium">
             Brands of all sizes use TRIAD to engage, educate, and reward their partners with premium corporate gifting programs, physical activations, and gamified BTL experiences.
@@ -159,8 +159,8 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 mb-24">
              <div className="lg:col-span-1">
                 <h2 className="text-4xl md:text-5xl font-bold text-grey-dark">
-                  What Makes TRIAD <br />
-                  <span className="text-brand-orange">Great?</span>
+                  The TRIAD <br />
+                  <span className="text-brand-orange">Advantage</span>
                 </h2>
              </div>
              
@@ -212,8 +212,8 @@ export default function Home() {
           {/* Large Numbers */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center md:text-left border-t border-grey-border pt-16">
              <div className="border-r border-grey-border/0 md:border-grey-border">
-                <div className="text-5xl font-light text-grey-dark font-mono mb-2">100<span className="text-brand-orange">+</span></div>
-                <div className="text-base font-bold text-grey-dark">Global Clients</div>
+                <div className="text-5xl font-light text-grey-dark font-mono mb-2">150<span className="text-brand-orange">+</span></div>
+                <div className="text-base font-bold text-grey-dark">Enterprise Partners</div>
              </div>
              <div className="border-r border-grey-border/0 md:border-grey-border">
                 <div className="text-5xl font-light text-grey-dark font-mono mb-2">450k<span className="text-brand-orange">+</span></div>
@@ -236,7 +236,7 @@ export default function Home() {
       <section className="py-24 bg-grey-light/50">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-grey-dark mb-16">
-            Bold Moves. <span className="text-brand-orange">Real Results</span>
+            Proven <span className="text-brand-orange">Case Studies</span>
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-left">
@@ -281,7 +281,7 @@ export default function Home() {
          {/* Left Side (Yellow) */}
          <div className="w-full md:w-1/2 bg-[#EAB308] p-12 md:p-20 flex flex-col md:flex-row items-center justify-center gap-8">
             <h2 className="text-2xl md:text-3xl font-bold text-white max-w-sm text-center md:text-left">
-               See how TRIAD can grow engagement & drive business outcomes
+               Ready to transform your brand's physical presence?
             </h2>
             <Link href="/connect" className="bg-grey-dark text-white px-8 py-4 rounded-full font-bold whitespace-nowrap hover:bg-black transition-colors">
                Get Started
@@ -291,7 +291,7 @@ export default function Home() {
          {/* Right Side (Orange) */}
          <div className="w-full md:w-1/2 bg-brand-orange p-12 md:p-20 flex flex-col md:flex-row items-center justify-center gap-8">
             <h2 className="text-2xl md:text-3xl font-bold text-white max-w-sm text-center md:text-left">
-               Help your clients effectively engage their channel & sales teams
+               Partner with us to scale your corporate gifting operations
             </h2>
             <Link href="/connect" className="bg-grey-dark text-white px-8 py-4 rounded-full font-bold whitespace-nowrap hover:bg-black transition-colors">
                Become a Partner
