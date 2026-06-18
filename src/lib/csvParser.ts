@@ -18,6 +18,7 @@ interface CsvRow {
   created_by: string;
   date: string;
   time: string;
+  [key: string]: any;
 }
 
 export function parseCSVData(csvString: string) {
